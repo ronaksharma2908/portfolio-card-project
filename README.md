@@ -21,13 +21,6 @@ This project demonstrates reusable components, modular CSS, and clean UI design 
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/portfolio-card-project.git
-cd portfolio-card-project
-
 📂 Project Structure
 
 portfolio-card-project/
