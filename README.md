@@ -44,7 +44,5 @@ portfolio-card-project/
 Built for learning React fundamentals, hackathons, and portfolio projects 🚀
 
 
-📜 License
-This project is licensed under the MIT License.
 
 
