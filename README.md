@@ -21,24 +21,6 @@ This project demonstrates reusable components, modular CSS, and clean UI design 
 
 ---
 
-📂 Project Structure
-
-portfolio-card-project/
-│── public/
-│── src/
-│   ├── components/
-│   │   ├── avatar.js
-│   │   ├── bio.js
-│   │   ├── header.js
-│   │   ├── personalInfo.js
-│   │   ├── portfoliocard.css
-│   │   └── portfoliocard.js
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── ...
-│── package.json
-
 👨‍💻 **Author**  
 **Ronak Sharma**  
 Built for learning React fundamentals, hackathons, and portfolio projects 🚀
