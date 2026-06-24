@@ -21,8 +21,11 @@ This project demonstrates reusable components, modular CSS, and clean UI design 
 
 ---
 
+
 👨‍💻 **Author**  
+
 **Ronak Sharma**  
+
 Built for learning React fundamentals, hackathons, and portfolio projects 🚀....
 
 
